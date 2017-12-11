@@ -7,10 +7,9 @@ File system:
 
 	Code: All the code implementations, and the main function contians in the file me296proj.m
 
-	Report: The Written Report of the project. 
+	Report: The Written Report of the project. The FinalReport.pdf gives the best form to read although 3 file contains the same contents.
 
-	Data: Data generated for ploting Reachibility set. Because the run time of the code is too high. We use a seperate file to 
-	store the data. 
+	Data: Data generated for ploting Reachibility set. Because the run time of the code is too high. We use a seperate file to store the data. 
 
 	Image: The Images of the Results generated from the the main file.
 
